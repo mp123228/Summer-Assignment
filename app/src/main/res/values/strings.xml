@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">g_summerassignmnet</string>
+    <string name="mapkey">AIzaSyCxCUtVr1jj4tBeTKTNsj9NF5AybZT9VQE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
